@@ -1,0 +1,16 @@
+@model DrinkListViewModel
+
+@{
+    ViewData["Title"]="List";
+}
+
+<div>
+    <h2>All Drink are shown here</h2>
+</div>
+<h2>@Model.CurrentCategory</h2>
+@{
+    foreach(var drink in Model.Drinks)
+    {
+        @await Html.PartialAsync("DrinkSummary", drink);
+    }
+}

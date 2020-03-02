@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/goli/Desktop/code/demo/demo/demo.csproj": {}
+    "/home/goli/Desktop/code/demo/E-Commers3.1/demo/demo.csproj": {}
   },
   "projects": {
-    "/home/goli/Desktop/code/demo/demo/demo.csproj": {
+    "/home/goli/Desktop/code/demo/E-Commers3.1/demo/demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/goli/Desktop/code/demo/demo/demo.csproj",
+        "projectUniqueName": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/demo.csproj",
         "projectName": "demo",
-        "projectPath": "/home/goli/Desktop/code/demo/demo/demo.csproj",
+        "projectPath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/demo.csproj",
         "packagesPath": "/home/goli/.nuget/packages/",
-        "outputPath": "/home/goli/Desktop/code/demo/demo/obj/",
+        "outputPath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/goli/.nuget/NuGet/NuGet.Config"
@@ -50,7 +50,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/demo.csproj",
+  "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/demo.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20604,83 +20604,83 @@
   "RootNamespace": "demo",
   "Documents": [
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/_ViewStart.cshtml",
-      "TargetPath": "Views/_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Shared/Components/CategoryMenu/Default.cshtml",
-      "TargetPath": "Views/Shared/Components/CategoryMenu/Default.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Shared/DrinkSummary.cshtml",
-      "TargetPath": "Views/Shared/DrinkSummary.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Shared/Components/ShoppingCartSummary/Default.cshtml",
-      "TargetPath": "Views/Shared/Components/ShoppingCartSummary/Default.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Order/Checkout.cshtml",
-      "TargetPath": "Views/Order/Checkout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Shared/Error.cshtml",
-      "TargetPath": "Views/Shared/Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/_ViewImports.cshtml",
-      "TargetPath": "Views/_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Drink/List.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Drink/List.cshtml",
       "TargetPath": "Views/Drink/List.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Shared/Carousel.cshtml",
-      "TargetPath": "Views/Shared/Carousel.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Order/Checkout.cshtml",
+      "TargetPath": "Views/Order/Checkout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Home/Privacy.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Shared/DrinkSummary.cshtml",
+      "TargetPath": "Views/Shared/DrinkSummary.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Home/Privacy.cshtml",
       "TargetPath": "Views/Home/Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Home/Index.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Shared/Components/ShoppingCartSummary/Default.cshtml",
+      "TargetPath": "Views/Shared/Components/ShoppingCartSummary/Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Shared/Carousel.cshtml",
+      "TargetPath": "Views/Shared/Carousel.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/ShoppingCart/Index.cshtml",
-      "TargetPath": "Views/ShoppingCart/Index.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Shared/Components/CategoryMenu/Default.cshtml",
+      "TargetPath": "Views/Shared/Components/CategoryMenu/Default.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Order/CheckoutComplete.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Order/CheckoutComplete.cshtml",
       "TargetPath": "Views/Order/CheckoutComplete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Contact/Index.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Shared/Error.cshtml",
+      "TargetPath": "Views/Shared/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/ShoppingCart/Index.cshtml",
+      "TargetPath": "Views/ShoppingCart/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/Contact/Index.cshtml",
       "TargetPath": "Views/Contact/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/goli/Desktop/code/E-Commers3.1/demo/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FilePath": "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

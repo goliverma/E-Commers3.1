@@ -341,3 +341,8 @@
 /home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/Debug/netcoreapp3.1/staticwebassets/demo.StaticWebAssets.xml
 /home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/Debug/netcoreapp3.1/demo.dll
 /home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/Debug/netcoreapp3.1/demo.pdb
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll

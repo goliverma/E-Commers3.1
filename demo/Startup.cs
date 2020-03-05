@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -33,6 +34,7 @@ namespace demo
             services.AddDbContext<AppDbContext>(
                 options => options.UseSqlite(
                 Configuration.GetConnectionString("default")));
+            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
             services.AddTransient<IDrinkRepository, DrinkRepository>();
             services.AddControllersWithViews();
             services.AddTransient<ICategoryRepository, CategoryRepository>();
@@ -60,8 +62,7 @@ namespace demo
             app.UseStaticFiles();
             app.UseRouting();   
             app.UseAuthorization();            
-            app.UseSession(); 
-            
+            app.UseSession();            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

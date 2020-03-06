@@ -40,8 +40,22 @@ using demo.ViewModels;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "/home/goli/Desktop/code/demo/E-Commers3.1/demo/Views/_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9bf7f58d24d24a5d321afc97f5cff43f28015eef", @"/Views/ShoppingCart/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8913f5edf792d93d519c5f8751a29fc8ad8f0f53", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d13171b0cd35be8bed3f90b17010b415e0e9cf7c", @"/Views/_ViewImports.cshtml")]
     public class Views_ShoppingCart_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ShoppingCartViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("glyphicon glyphicon-remove text-danger remove"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -135,7 +149,7 @@ using demo.ViewModels;
 #line hidden
 #nullable disable
             WriteLiteral("\n                    </td>\n                    <td class=\"text-center\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef8629", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef9017", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper>();
@@ -184,7 +198,7 @@ using demo.ViewModels;
 #line hidden
 #nullable disable
             WriteLiteral("\n                </td>\n            </tr>\n        </tfoot>\n    </table>\n\n    <div class=\"text-right\">\n        <div class=\"btn-group \">\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef11969", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef12357", async() => {
                 WriteLiteral("Check out");
             }
             );
@@ -209,7 +223,7 @@ using demo.ViewModels;
                 </a>
                 <ul class=""dropdown-menu"" role=""menu"">
                     <li>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef13688", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef14076", async() => {
                 WriteLiteral("Alcoholic");
             }
             );
@@ -233,7 +247,7 @@ using demo.ViewModels;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("</li>\n                    <li>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef15578", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bf7f58d24d24a5d321afc97f5cff43f28015eef15966", async() => {
                 WriteLiteral("Non Alcoholic");
             }
             );

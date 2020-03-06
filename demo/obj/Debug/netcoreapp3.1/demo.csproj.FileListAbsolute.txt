@@ -346,3 +346,7 @@
 /home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
 /home/goli/Desktop/code/demo/E-Commers3.1/demo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/Debug/netcoreapp3.1/Razor/Views/Account/Logout.cshtml.g.cs
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/Debug/netcoreapp3.1/Razor/Views/Account/Register.cshtml.g.cs
+/home/goli/Desktop/code/demo/E-Commers3.1/demo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/LoginPartial.cshtml.g.cs

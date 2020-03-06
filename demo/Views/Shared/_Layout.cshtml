@@ -30,7 +30,7 @@
                     <li><a asp-controller="Contact" asp-action="Index">Contact us</a></li>
                     @await Component.InvokeAsync("ShoppingCartSummary")
                 </ul>
-                @* @await Html.PartialAsync("LoginPartial") *@
+                @await Html.PartialAsync("LoginPartial")
                 <form class="navbar-form navbar-right" asp-controller="Drink" asp-action="Search" method="get">
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Search for a drink" name="searchString" value="@ViewData["searchString"]">

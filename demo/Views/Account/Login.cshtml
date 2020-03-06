@@ -1,0 +1,38 @@
+@model LoginViewModel
+@{
+    ViewData["Title"]="Login page";
+}
+
+<div class="row loginForm">
+    <div class="col-md-8 col-md-offset-2">
+        <h2>
+            <p>Please log in before placing an order.</p>
+        </h2>
+        <form asp-controller="Account" asp-action="Login" method="POST" class="form-horizontal" role="form">
+            <h4>
+                <p>Enter your detail below</p>
+            </h4>
+            <hr />
+            <input type="hidden" asp-for="returnurl"/>
+            <div class="form-group">
+                <label asp-for="UserName" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="UserName" class="form-control" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="col-md-2 control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group pull-right formPullRightButton">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" class="btn btn-success" value="Log In" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
